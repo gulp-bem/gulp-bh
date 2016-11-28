@@ -24,7 +24,7 @@
   "dependencies": {
     "bh": "^4.1.3",
     "node-eval": "^1.0.0",
-    "through2": "^2.0.0"
+    "through2": "^2.0.3"
   },
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.0"
