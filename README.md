@@ -1,6 +1,8 @@
 gulp-bh
 =======
 
+*DEPRECATED repository, moved to mono repository [gulp-bem](https://github.com/bem/gulp-bem/tree/master/packages/gulp-bh)*
+
 Gulp plugin for executing [https://github.com/bem/bh](bh) templates.
 
 ```js
